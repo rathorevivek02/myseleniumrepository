@@ -1,0 +1,12 @@
+Register username with git===git config --global user.name "rathorevivek02"
+register email is with git===git config --global user.email "rathorevivek02@gmail.com"
+initialize git=== git init
+git status=== untracted means not sent to github
+git add . === move to staging env.
+git commit -m "firstcommit" === move to local git on the machine
+git remote add origin https://github.com/rathorevivek02/myseleniumrepository.git===load location from local to github
+git push -u origin master===from local to github
+=======================UPLOAD==TO==GITHUB=====================================================
+
+connect jenkins
+
