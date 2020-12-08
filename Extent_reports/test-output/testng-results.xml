@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18222" started-at="2020-12-07T23:25:17Z" finished-at="2020-12-07T23:25:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18222" started-at="2020-12-07T23:25:17Z" finished-at="2020-12-07T23:25:35Z">
+      <class name="testPackage.ExtentDemo">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:testPackage.ExtentDemo@4520ebad]" name="startTest" is-config="true" duration-ms="435" started-at="2020-12-08T04:55:17Z" finished-at="2020-12-08T04:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:testPackage.ExtentDemo@4520ebad]" name="OpenUrl" duration-ms="16201" started-at="2020-12-08T04:55:17Z" finished-at="2020-12-08T04:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="Validate()[pri:0, instance:testPackage.ExtentDemo@4520ebad]" name="Validate" duration-ms="15" started-at="2020-12-08T04:55:34Z" finished-at="2020-12-08T04:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testPackage.ExtentDemo@4520ebad]" name="endTest" is-config="true" duration-ms="1539" started-at="2020-12-08T04:55:34Z" finished-at="2020-12-08T04:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testPackage.ExtentDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
