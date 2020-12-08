@@ -14,7 +14,7 @@ static ExtentTest test;
 static ExtentReports report;
 static WebDriver driver;
 		@BeforeClass
-		public static void startTest(){
+		public static void StartTest(){
 			report = new ExtentReports(System.getProperty("user.dir")+"\\Reports\\ExtentReportResults.html");
 			test = report.startTest("ExtentDemo");
 		}
